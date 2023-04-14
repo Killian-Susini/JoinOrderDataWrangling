@@ -1,0 +1,1 @@
+Optimization was stopped with status 11

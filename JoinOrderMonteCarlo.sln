@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JoinOrderMonteCarlo", "JoinOrderMonteCarlo.vcxproj", "{41C88E09-E320-48AB-B250-1AB29F80C1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Optimised|x64 = Optimised|x64
+		Optimised|x86 = Optimised|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Debug|x64.ActiveCfg = Debug|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Debug|x64.Build.0 = Debug|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Debug|x86.Build.0 = Debug|Win32
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Optimised|x64.ActiveCfg = Optimised|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Optimised|x64.Build.0 = Optimised|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Optimised|x86.ActiveCfg = Optimised|Win32
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Optimised|x86.Build.0 = Optimised|Win32
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Release|x64.ActiveCfg = Release|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Release|x64.Build.0 = Release|x64
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Release|x86.ActiveCfg = Release|Win32
+		{41C88E09-E320-48AB-B250-1AB29F80C1D8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D60CD2D-426C-4489-AB18-5F6C0520E7CC}
+	EndGlobalSection
+EndGlobal
